@@ -1,0 +1,32 @@
+{
+  "id": "37fa5f9b-da1f-40d6-b545-58f7a08b243d",
+  "name": "double-Discount",
+  "publisher": "Paul Rennison",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 50055,
+      "to": 50075
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
